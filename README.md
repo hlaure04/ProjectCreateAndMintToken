@@ -1,6 +1,5 @@
 # ProjectCreateAndMintToken
 
-# FunctionAndErrors
 # Description
 You will write a smart contract to create your own ERC20 token and deploy it using HardHat or Remix. 
 Once deployed, you should be able to interact with it for your walk-through video. 
